@@ -41,6 +41,6 @@
     "postcss-import": "^11.0.0",
     "url-loader": "^0.6.2",
     "webpack": "3.10.0",
-    "whatwg-fetch": "^2.0.3"
+    "whatwg-fetch": "^3.0.0"
   }
 }
